@@ -4,14 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
+- ⚡ Fun fact: ..
+!---
 Tigerboy-code/Tigerboy-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-┌ ❏ 𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒 ❏ 
-│
 ├❍ ᴘʀᴇғɪx : .
 ├❍ ᴜsᴇʀ : ❦⚚𝚸𝚫Ꮢ𝐅𝐔𝚴𝚯 ⚚❦ ✰𝒀𝒐𝒓𝒊𝒔✰ 
 ├❍ ᴠᴇʀsɪᴏɴ: 4.1
@@ -680,5 +677,4 @@ You can click the Preview link to take a look at your changes.
 ├❍ . ɢᴀʟᴀxʏsᴛʏʟᴇ
 ├❍ . ʟɪɢʜᴛᴇғғᴇᴄᴛs
 └ ❏
-	*〤 𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒 〻*
-
+	*〤 𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-
